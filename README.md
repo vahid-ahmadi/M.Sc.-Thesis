@@ -1,0 +1,1 @@
+This project contains the code for replicating the analyses and results presented in my master's thesis. For more detailed information, please refer to the thesis PDF file included in this repository.
